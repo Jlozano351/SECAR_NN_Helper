@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='SECAR_NN_helper',
+    name='SECAR_NN_Helper',
     version='1.0.0',
     description='Library for the Neural Network model for the FRIB',
     author='Juan José Lozano González',
